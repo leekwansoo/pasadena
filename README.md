@@ -1,2 +1,2 @@
-# pasadena
-Nvidia Nano Jetson Application Development Project
+# Streamlit-hello-app
+First Streamlit app project with heroku cloud deployment platform
