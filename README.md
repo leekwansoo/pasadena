@@ -1,2 +1,2 @@
-# Streamlit-hello-app
-First Streamlit app project with heroku cloud deployment platform
+# Github Page service
+Uploading excercise for GitHub Page service
