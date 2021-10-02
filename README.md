@@ -1,2 +1,2 @@
 # Github Page service
-Uploading famoly photo
+Uploading family photo
