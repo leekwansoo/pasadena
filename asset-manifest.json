@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pasadena/static/css/main.d88a88fe.chunk.css",
+    "main.js": "/pasadena/static/js/main.eebcca4f.chunk.js",
+    "main.js.map": "/pasadena/static/js/main.eebcca4f.chunk.js.map",
+    "runtime-main.js": "/pasadena/static/js/runtime-main.c6547c96.js",
+    "runtime-main.js.map": "/pasadena/static/js/runtime-main.c6547c96.js.map",
+    "static/css/2.27dd871e.chunk.css": "/pasadena/static/css/2.27dd871e.chunk.css",
+    "static/js/2.02f17f89.chunk.js": "/pasadena/static/js/2.02f17f89.chunk.js",
+    "static/js/2.02f17f89.chunk.js.map": "/pasadena/static/js/2.02f17f89.chunk.js.map",
+    "static/js/3.417d6533.chunk.js": "/pasadena/static/js/3.417d6533.chunk.js",
+    "static/js/3.417d6533.chunk.js.map": "/pasadena/static/js/3.417d6533.chunk.js.map",
+    "index.html": "/pasadena/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/pasadena/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.d88a88fe.chunk.css.map": "/pasadena/static/css/main.d88a88fe.chunk.css.map",
+    "static/js/2.02f17f89.chunk.js.LICENSE.txt": "/pasadena/static/js/2.02f17f89.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pasadena/static/media/background.739617fe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6547c96.js",
+    "static/css/2.27dd871e.chunk.css",
+    "static/js/2.02f17f89.chunk.js",
+    "static/css/main.d88a88fe.chunk.css",
+    "static/js/main.eebcca4f.chunk.js"
+  ]
+}
